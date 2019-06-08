@@ -1,0 +1,2348 @@
+{
+	"id": "dddeda53-73fc-7974-4a0c-61d24cb37266",
+	"name": "Nayun",
+	"description": "",
+	"auth": null,
+	"events": null,
+	"variables": [],
+	"order": [
+		"5e262668-575d-25e8-cd46-a00790829147",
+		"a3ed7c79-a75f-4ae9-aec2-6e20183dba6e",
+		"267fb4ca-0738-4b3a-8d8c-39f9abb7188f",
+		"9196e593-38f8-4e58-b90f-410b531af4e9",
+		"679b05e3-42d1-4c2f-ba6b-af9fe6de7c20",
+		"e217cdde-d070-4dd9-a9e6-ceb6fc299448",
+		"e6297117-4475-4eb6-bd15-2e5c2e751ace",
+		"e8eaff8a-7dc1-422b-b09b-60f1d01e7dd9",
+		"407133b0-701e-45c4-a2ea-7c169c0dcdff",
+		"4c98f9ef-91d7-4dba-bcc2-54b41814908f",
+		"41bb9528-ccf0-4f06-b6cf-a66a946b6f0c",
+		"2c2fe1b1-6cc9-43c9-a5c9-16d8f9d92f02",
+		"51536f09-6d99-4a78-9fe3-fdc4b8f5a371",
+		"1eade443-0818-4838-82cb-f4e240edef26",
+		"738dae31-7a7c-42c6-b69f-1a8f7465e252",
+		"5b35742c-3932-4eb0-8f5a-c2faba2426a2",
+		"36364631-9cce-43e0-890c-659c908ff67e",
+		"db6b63c4-f6ba-4c84-a552-d2bd2fce38da",
+		"6d17f0ee-5df7-42b0-94db-9ac3404212d6",
+		"11285f0f-8ed2-44aa-b3df-88825f11e78c",
+		"5fad6453-e8da-42ab-bfa8-59f1c671033c",
+		"1fdd01a9-a7e5-4ac9-aee6-997b1893525b",
+		"e045c59a-f1c4-4dc8-924b-c80ad5848815",
+		"e529a9e0-65a2-4f40-be68-9d9d80ad76e6",
+		"78d61519-a8fb-455a-9711-9c82a50b670f",
+		"dbb6fdd8-df2b-4756-a8e7-f47909aa576f",
+		"e3758601-c803-40d0-ab4d-296e0f97abc7",
+		"76b7a4a9-9c85-441c-a1ef-59358e40dac8",
+		"47e1ec8f-404a-4fcf-bfe7-81af2be2eaa1",
+		"6a97ee9d-2f78-48af-8770-0e9e4aecbdce",
+		"7502e640-d59a-4a70-88e9-cc2b5851869a",
+		"a0645532-4c36-4516-9f06-0e455d3f833c",
+		"99ae932f-c6da-affa-e87e-31112b6cb789",
+		"329348ba-db43-4538-8573-118437fc5a4e",
+		"3176921d-329e-41d2-8b1b-ecc57bc84f4c",
+		"d79d204a-3920-4cea-8e1d-1e3ab12ada35",
+		"4355a26b-a2e8-45c1-9c6a-9a5b2bbda603",
+		"f4fd4b67-fd7f-4719-842b-1f606bbfe337",
+		"00956bf9-f1e0-4cf9-88c5-92ee50e4ebcd",
+		"e9708bd6-a751-c0d2-fd4c-8819212501a3",
+		"3d55eb1a-91a0-91b2-8b48-60054b124cf0",
+		"6d843361-eeb0-4ad2-b919-732a63f881af",
+		"34f00ad1-2330-4862-9474-8d3477956d48",
+		"a6aea4c4-7870-72e7-5ace-bba30e4c4697",
+		"f4eb98fc-8a2f-4d95-4fe5-9c5f6b27d5a6",
+		"4e19b76c-2bdb-4e6a-8aa1-3d92a76700e5",
+		"1fede716-331b-47e6-a2f4-3057eff8b826",
+		"d905e409-9edb-568d-97d5-6fe3acd2c0d8",
+		"7f6f5d03-6159-438b-b363-eb9eaf93fd61",
+		"eba5331c-cbd2-4113-90b2-da72c3008537",
+		"de38b7b6-969f-4a3b-a28f-729b80ad6b09",
+		"5f3ba066-ee21-92e9-f1d4-d4e8b6f151bc",
+		"22a1688b-3226-4424-bdfa-79b8f9dd5589",
+		"89bc01d2-b83f-420a-be15-f24457ded709",
+		"5d281128-d785-8c58-5f7b-b73eaaec2ae7",
+		"e515e386-9de0-96b7-646b-e50ae42021b4",
+		"f932f68c-e0f8-4740-934c-be7be5aa389e",
+		"e4488899-b8e5-9c1f-40ba-fea1e4d98a6b",
+		"bb183589-d149-e070-1891-bffb43cd675b",
+		"2a33f1d0-d785-4bcd-a9e7-05d1248a07c7",
+		"6f72bd09-a623-44f2-a459-9b3cea8b5916",
+		"4204cd8a-7557-4b15-8d77-3e6a8f4ac2dd",
+		"3ad280b3-1082-4e0e-930e-51017aae2fc9",
+		"e76b8942-dde1-43e0-94f4-3b170a9aa593",
+		"61658a82-c974-431b-bea2-e9bfd9cf20ae",
+		"c5ab71df-64ed-4efd-8b27-e05230b7d0b6",
+		"32042f40-27eb-4bc6-976e-3a3b11aed074",
+		"b5d1df27-b33a-4510-b3db-b7d358098883",
+		"dc5bba08-6293-40c7-89bf-2e6d45b62323",
+		"b2149582-81ae-4388-a3b6-70e50d9b95c0",
+		"8be2b3b3-2b6a-cde0-f106-6387d1019f55",
+		"7385d53e-0e54-4798-961f-c4b1221e2e04",
+		"e0afa308-f89f-4254-b65e-5161357d5ef6",
+		"2fedcae5-4e40-6ac1-f691-7fb21edcaf02",
+		"ced888ce-646c-1bda-9470-7798af47d8d9",
+		"c3064c5c-9932-faea-f053-90bc99373dac",
+		"fcd24133-c743-b8b1-bb33-1a59f167c3b3",
+		"12083fb6-2153-7a38-dec8-bb66ed94c5dc",
+		"999e39c7-50c5-1ab6-d59e-5e672ae939bd",
+		"f9fc545b-13c2-a0d9-2b88-1c207cf16386",
+		"01586d90-f472-9f8b-013c-74f8a4277db3",
+		"1c7da327-d381-4f75-89eb-21e2672d1829",
+		"90a12f52-bd5e-4619-9665-7f77fcbbaac1",
+		"972aedec-5d4b-407e-9346-fa05ceab0534",
+		"c75a4b89-7692-401b-98d7-ced2fbfbc9e0",
+		"c5cf6a38-4008-47d5-b04d-9b7def7ba72a",
+		"4e1d9694-2cd6-4ceb-a6d7-4d5304093a35",
+		"32f38d60-516b-4f61-9aab-0cb3f3a3c3a0",
+		"7aa23a0a-178b-4075-bb0e-8d7e78ad73f8"
+	],
+	"folders_order": [],
+	"folders": [],
+	"requests": [
+		{
+			"id": "00956bf9-f1e0-4cf9-88c5-92ee50e4ebcd",
+			"name": "인덱스 bulk",
+			"url": "http://localhost:9200/_bulk",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{ \"index\" : { \"_index\" : \"test\", \"_type\" : \"_doc\", \"_id\" : \"1\" } }\r\n{ \"field1\" : \"value1\" }",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "01586d90-f472-9f8b-013c-74f8a4277db3",
+			"name": "인덱스 샤드 옮기기",
+			"url": "http://localhost:9200//_cluster/reroute",
+			"description": "node.attr.rack: r1 주석해제 ",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n    \"commands\" : [\n        {\n            \"move\" : {\n                \"index\" : \"logstash-2019.01.05\", \"shard\" : 4,\n                \"from_node\" : \"node-1\", \"to_node\" : \"node-2\"\n            }\n        }\n        \n    ]\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "11285f0f-8ed2-44aa-b3df-88825f11e78c",
+			"name": "path tokenizer",
+			"url": "http://localhost:9200/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"analyzer\": \"keyword\",\r\n  \"text\":     \"share your c experience with NoSql2 & big data technologies.\"\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "12083fb6-2153-7a38-dec8-bb66ed94c5dc",
+			"name": "인덱스 slow log 설정확인",
+			"url": "http://localhost:9200/logstash-2019.01.05/_settings",
+			"description": "https://ma.ttias.be/enable-slow-log-elastic-search/",
+			"data": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "1c7da327-d381-4f75-89eb-21e2672d1829",
+			"name": "unassigned shard 해결",
+			"url": "http://localhost:9200/_cluster/reroute?retry_failed",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "retry_failed",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "1eade443-0818-4838-82cb-f4e240edef26",
+			"name": "synonym 데이터 확인",
+			"url": "http://localhost:9200/index_synonym/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":\"baz\"\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "1fdd01a9-a7e5-4ac9-aee6-997b1893525b",
+			"name": "analyzer fingerprint",
+			"url": "http://localhost:9200/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n \"analyzer\": \"fingerprint\",\r\n  \"text\": \"Yes yes, Gödel said this sentence is consistent and.\"\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "1fede716-331b-47e6-a2f4-3057eff8b826",
+			"name": "인덱스 통계3 --aggs bucket selector",
+			"url": "http://localhost:9200/actors-2019.03.16/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"size\":0,\n\t\"query\":{\n\t\t\"match_all\":{}\n\t},\n\t\"aggs\":{\n\t\t\"aggs_rank\":{\n\t\t\t\"terms\":{\n\t\t\t\t\"field\":\"rank.keyword\"\n\t\t\t   },\n\t\t\t   \"aggs\":{\n\t\t\t\t\t\"rank_bucket_filter\":{\n\t\t\t\t\t\t\"bucket_selector\":{\n\t\t\t\t\t\t\t\"buckets_path\":{\n\t\t\t\t\t\t\t\t\"the_doc_count\": \"_count\"\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\t\"script\":\"params.the_doc_count > 1000\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t    }\n\t\t   }\n\t  }\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "22a1688b-3226-4424-bdfa-79b8f9dd5589",
+			"name": "_source",
+			"url": "http://localhost:9200/logstash-2019.01.19/_search",
+			"description": "특정필드 보기 ",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"_source\":[\"host.*\"],\n\t\"query\":{\n\t\t\"match_all\":{}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "267fb4ca-0738-4b3a-8d8c-39f9abb7188f",
+			"name": "post filter",
+			"url": "http://localhost:9200/shirts/_search\n",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{\r\n  \"query\": {\r\n    \"bool\": {\r\n      \"filter\": {\r\n        \"term\": { \"brand\": \"gucci\" } \r\n      }\r\n    }\r\n  },\r\n  \"aggs\": {\r\n    \"colors\": {\r\n      \"terms\": { \"field\": \"color\" } \r\n    },\r\n    \"color_red\": {\r\n      \"filter\": {\r\n        \"term\": { \"color\": \"red\" } \r\n      },\r\n      \"aggs\": {\r\n        \"models\": {\r\n          \"terms\": { \"field\": \"model\" } \r\n        }\r\n      }\r\n    }\r\n  },\r\n  \"post_filter\": { \r\n    \"term\": { \"color\": \"red\" }\r\n  }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "2a33f1d0-d785-4bcd-a9e7-05d1248a07c7",
+			"name": "_routing 생성",
+			"url": "http://localhost:9200/my_index/_doc/1?routing=user1&refresh=true",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/6.6/mapping-routing-field.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "routing",
+					"value": "user1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "refresh",
+					"value": "true",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"title\": \"This is a document\"\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "2c2fe1b1-6cc9-43c9-a5c9-16d8f9d92f02",
+			"name": "template synonym token filter",
+			"url": "http://localhost:9200/_template/index_synonym",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n\t\"template\":\"index_synonym*\",\r\n    \"settings\": {\r\n        \"index\" : {\r\n            \"analysis\" : {\r\n                \"analyzer\" : {\r\n                    \"synonym\" : {\r\n                        \"tokenizer\" : \"standard\",\r\n                        \"filter\" : [\"my_stop\", \"synonym\"]\r\n                    }\r\n                },\r\n                \"filter\" : {\r\n                    \"my_stop\": {\r\n                        \"type\" : \"stop\",\r\n                        \"stopwords\": [\"bar\"]\r\n                    },\r\n                    \"synonym\" : {\r\n                        \"type\" : \"synonym\",\r\n                        \"lenient\": true,\r\n                        \"synonyms\" : [\"foo, bar => baz\"]\r\n                    }\r\n                }\r\n            }\r\n        }\r\n    },\r\n     \"mappings\": {\r\n    \"_doc\": {\r\n      \"properties\": {\r\n        \"content\":{\r\n           \"type\":\"text\",\r\n           \"analyzer\":\"synonym\"\r\n        }\r\n      }\r\n    }\r\n  }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "2fedcae5-4e40-6ac1-f691-7fb21edcaf02",
+			"name": "인덱스 삭제하기",
+			"url": "http://localhost:9200/test2019_02_09",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "3176921d-329e-41d2-8b1b-ecc57bc84f4c",
+			"name": "인덱스 id 업데이트 확인",
+			"url": "http://localhost:9200/logstash-2019.01.19/doc/dgcLZWgBp3P6drI0tpU1",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "32042f40-27eb-4bc6-976e-3a3b11aed074",
+			"name": "upsert 데이터 확인",
+			"url": "http://localhost:9200/test/_doc/1/",
+			"description": "해당 다큐먼트를 찾으면 결과에서 found = true 를 볼 수 있다.",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{\r\n    \"script\" : {\r\n        \"source\": \"ctx._source.counter += params.count\",\r\n        \"lang\": \"painless\",\r\n        \"params\" : {\r\n            \"count\" : 4\r\n        }\r\n    },\r\n    \"upsert\" : {\r\n        \"counter\" : 1\r\n    }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "329348ba-db43-4538-8573-118437fc5a4e",
+			"name": "인덱스 id 업데이트",
+			"url": "http://localhost:9200/logstash-2019.01.19/doc/dgcLZWgBp3P6drI0tpU1/_update",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"doc\":{\n\t\t\"host\":{\n\t\t\t\"name\":\"AAA\"\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "32f38d60-516b-4f61-9aab-0cb3f3a3c3a0",
+			"name": "aggregation data",
+			"url": "http://localhost:9200/shirts/_doc/1?refresh",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "refresh",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n    \"brand\": \"gucci\",\r\n    \"color\": \"red\",\r\n    \"model\": \"slim\"\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "34f00ad1-2330-4862-9474-8d3477956d48",
+			"name": "date필드매핑추가하기",
+			"url": "http://localhost:9200/logstash-2019.01.19/_mapping/doc",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"doc\":{\n\t\t\"properties\":{\n\t\t\t\"new_event\":{\n\t\t\t\t\"type\":\"date\",\n\t\t\t\t\"format\":\"MMM DD YYYY\"\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "36364631-9cce-43e0-890c-659c908ff67e",
+			"name": "nori sample",
+			"url": "http://localhost:9200/nori_sample",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"settings\": {\r\n    \"index\": {\r\n      \"analysis\": {\r\n        \"tokenizer\": {\r\n          \"nori_user_dict\": {\r\n            \"type\": \"nori_tokenizer\",\r\n            \"decompound_mode\": \"mixed\",\r\n            \"user_dictionary\": \"userdict_ko.txt\"\r\n          }\r\n        },\r\n        \"analyzer\": {\r\n          \"my_analyzer\": {\r\n            \"type\": \"custom\",\r\n            \"tokenizer\": \"nori_user_dict\"\r\n          }\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "3ad280b3-1082-4e0e-930e-51017aae2fc9",
+			"name": "_store 매핑",
+			"url": "http://localhost:9200/my_index2",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-store.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"mappings\": {\r\n    \"_doc\": {\r\n      \"properties\": {\r\n        \"title\": {\r\n          \"type\": \"text\",\r\n          \"store\": true \r\n        },\r\n        \"date\": {\r\n          \"type\": \"date\",\r\n          \"store\": true \r\n        },\r\n        \"content\": {\r\n          \"type\": \"text\"\r\n        }\r\n      }\r\n    }\r\n  }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "3d55eb1a-91a0-91b2-8b48-60054b124cf0",
+			"name": "인덱스 매핑보기 : 타입보기",
+			"url": "http://localhost:9200/logstash-2019.01.19/_mapping/doc",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "407133b0-701e-45c4-a2ea-7c169c0dcdff",
+			"name": "template1",
+			"url": "http://localhost:9200/_template/test",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"template\":\"test*\",\r\n  \"settings\": {\r\n  \t\"index.search.slowlog.level\":\"info\",\r\n  \t\"index.search.slowlog.threshold.query.warn\":\"20s\",\r\n  \t\"index.search.slowlog.threshold.query.info\":\"10s\",\r\n  \t\"index.search.slowlog.threshold.query.debug\":\"5s\",\r\n  \t\"index.search.slowlog.threshold.query.trace\":\"1s\",\r\n    \"merge\":{\r\n      \"scheduler\":{\r\n         \"max_thread_count\":\"1\"\r\n      }\r\n    },\r\n    \"index\":{\r\n        \"number_of_shards\": \"1\",\r\n        \"number_of_replicas\":\"1\",\r\n        \"refresh_interval\":\"10s\"\r\n      },\r\n     \"analysis\":{\r\n       \"analyzer\":{\r\n           \"whitespace_filter\":{\r\n               \"filter\":\"lowercase\",\r\n               \"type\":\"custom\",\r\n               \"tokenizer\":\"whitespace\"\r\n           },\r\n           \"bar_analyzer\":{\r\n               \"pattern\":\"\\\\|\",\r\n               \"type\":\"pattern\"\r\n           }\r\n       }\r\n\t }\r\n  },\r\n  \"mappings\": {\r\n    \"_doc\": {\r\n      \"properties\": {\r\n        \"host_name\": {\r\n          \"type\": \"keyword\"\r\n        },\r\n        \"created_at\": {\r\n          \"type\": \"date\",\r\n          \"format\": \"EEE MMM dd HH:mm:ss Z yyyy\"\r\n        },\r\n        \"content\":{\r\n           \"type\":\"text\",\r\n           \"analyzer\":\"whitespace_filter\"\r\n        },\r\n        \"list\":{\r\n           \"type\":\"text\",\r\n           \"analyzer\":\"bar_analyzer\"\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "41bb9528-ccf0-4f06-b6cf-a66a946b6f0c",
+			"name": "template2 Copy",
+			"url": "http://localhost:9200/_template/actors_template",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"template\":\"actors-template-*\",\n\t\"mappings\":{\n\t\t\"template_actor\":{\n\t\t\t\"properties\":{\n\t\t\t\t\"address\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t},\n\t\t\t\t\"address2\":{\n\t\t\t\t\t\"type\":\"integer\"\n\t\t\t\t},\n\t\t\t\t\"firstName\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t},\n\t\t\t\t\"lastName\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t},\n\t\t\t\t\"rank\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4204cd8a-7557-4b15-8d77-3e6a8f4ac2dd",
+			"name": "_routing 검색",
+			"url": "http://localhost:9200/my_index/_search",
+			"description": "해당 다큐먼트를 찾으면 결과에서 found = true 를 볼 수 있다.",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"query\": {\r\n    \"terms\": {\r\n      \"_routing\": [ \"user1\" ] \r\n    }\r\n  }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4355a26b-a2e8-45c1-9c6a-9a5b2bbda603",
+			"name": "인덱스 두개 보기",
+			"url": "http://localhost:9200/logstash-2019.01.19,logstash-2019.01.05/_search",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "47e1ec8f-404a-4fcf-bfe7-81af2be2eaa1",
+			"name": "공백이거나 없는 필드 제외 --existed, must not",
+			"url": "http://localhost:9200/logstash-2019.01.05/_search",
+			"description": "must - and\nshoud - or\nmust not - not and\n\nhttps://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html#query-dsl-bool-query",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n  \"query\": {\n    \"bool\" : {\n      \"must_not\" : [\n        { \"match\" : { \"message\": \"\" } }\n      ],\n       \"must\" : [\n        { \"exists\" : { \"field\": \"message\" } }\n      ]\n    }\n  }\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4c98f9ef-91d7-4dba-bcc2-54b41814908f",
+			"name": "template2",
+			"url": "http://localhost:9200/_template/actors_template",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"template\":\"actors-template-*\",\n\t\"mappings\":{\n\t\t\"template_actor\":{\n\t\t\t\"properties\":{\n\t\t\t\t\"address\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t},\n\t\t\t\t\"address2\":{\n\t\t\t\t\t\"type\":\"integer\"\n\t\t\t\t},\n\t\t\t\t\"firstName\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t},\n\t\t\t\t\"lastName\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t},\n\t\t\t\t\"rank\":{\n\t\t\t\t\t\"type\":\"text\"\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4e19b76c-2bdb-4e6a-8aa1-3d92a76700e5",
+			"name": "인덱스 통계3 --aggs",
+			"url": "http://localhost:9200/actors-2019.03.16/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{\n\t\"size\":0,\n\t\"query\":{\n\t\t\"match_all\":{}\n\t},\n\t\"aggs\":{\n\t\t\"aggs_rank\":{\n\t\t\t\"terms\":{\n\t\t\t\t\"field\":\"rank.keyword\"\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4e1d9694-2cd6-4ceb-a6d7-4d5304093a35",
+			"name": "aggregation mapping",
+			"url": "http://localhost:9200/shirts",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n    \"mappings\": {\r\n        \"_doc\": {\r\n            \"properties\": {\r\n                \"brand\": { \"type\": \"keyword\"},\r\n                \"color\": { \"type\": \"keyword\"},\r\n                \"model\": { \"type\": \"keyword\"}\r\n            }\r\n        }\r\n    }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "51536f09-6d99-4a78-9fe3-fdc4b8f5a371",
+			"name": "synonym 데이터 넣기",
+			"url": "http://localhost:9200/index_synonym/_doc/1",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"content\":\"foo\"\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "5b35742c-3932-4eb0-8f5a-c2faba2426a2",
+			"name": "analyzer Copy",
+			"url": "http://localhost:9200/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"analyzer\": \"keyword\",\r\n  \"text\":     \"share your c experience with NoSql2 & big data technologies.\"\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "5d281128-d785-8c58-5f7b-b73eaaec2ae7",
+			"name": "query_string",
+			"url": "http://localhost:9200/logstash-2019.01.05/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n  \"query\":{\n    \"query_string\":{\n      \"query\":\"elasticsearch dism.log\"\n      , \"default_field\": \"source\",\n      \"default_operator\": \"AND\"\n    }\n  }\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "5e262668-575d-25e8-cd46-a00790829147",
+			"name": "인덱스 리스트 보기",
+			"url": "http://localhost:9200/_cat/indices?pretty&s=i",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "s",
+					"value": "i",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "5f3ba066-ee21-92e9-f1d4-d4e8b6f151bc",
+			"name": "match",
+			"url": "http://localhost:9200/logstash-2019.01.05/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"size\":100,\n\t\"_source\":[\"beat\"],\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"host.name\":\"DESKTOP-BD76GS3\"\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "5fad6453-e8da-42ab-bfa8-59f1c671033c",
+			"name": "analyzer pattern",
+			"url": "http://localhost:9200/my_index5/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"analyzer\": \"my_email_analyzer\",\r\n  \"text\": \"John_Smith@foo-bar.com\"\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "61658a82-c974-431b-bea2-e9bfd9cf20ae",
+			"name": "_store 데이터 확인",
+			"url": "http://localhost:9200/my_index2/_search",
+			"description": "해당 다큐먼트를 찾으면 결과에서 found = true 를 볼 수 있다.",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"stored_fields\":[\"title\",\"date\"]\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "679b05e3-42d1-4c2f-ba6b-af9fe6de7c20",
+			"name": "인덱스/타입/아이디/_explain",
+			"url": "http://localhost:9200/actors-2019.03.16/doc/3itIhmkB4JHir-jMdEf9/_explain",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"address\":\"ApMSp\"\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "6a97ee9d-2f78-48af-8770-0e9e4aecbdce",
+			"name": "두개 인덱스 통계",
+			"url": "http://localhost:9200/logstash-2019.01.05,logstash-2019.01.19/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"size\":0,\n\t\"query\":{\n\t\t\"match_all\":{}\n\t},\n\t\"aggs\":{\n\t\t\"aggs_data\":{\n\t\t\t\"terms\":{\n\t\t\t\t\"field\":\"_index\"\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "6d17f0ee-5df7-42b0-94db-9ac3404212d6",
+			"name": "tokenzier uax url email",
+			"url": "http://localhost:9200/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"analyzer\": \"keyword\",\r\n  \"text\":     \"share your c experience with NoSql2 & big data technologies.\"\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "6d843361-eeb0-4ad2-b919-732a63f881af",
+			"name": "텍스트필드매핑추가하기",
+			"url": "http://localhost:9200/logstash-2019.01.19/_mapping/doc",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"doc\":{\n\t\t\"properties\":{\n\t\t\t\"host_name\":{\n\t\t\t\t\"type\":\"text\"\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "6f72bd09-a623-44f2-a459-9b3cea8b5916",
+			"name": "_routing 확인",
+			"url": "http://localhost:9200/my_index/_doc/1?routing=user1",
+			"description": "해당 다큐먼트를 찾으면 결과에서 found = true 를 볼 수 있다.",
+			"data": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "routing",
+					"value": "user1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "7385d53e-0e54-4798-961f-c4b1221e2e04",
+			"name": "빈인덱스 생성하기- id 지정하기",
+			"url": "http://localhost:9200/test2019_03_02/doc/1",
+			"description": "field:value 값을 넣어주어야 한다.\n\nPUT week4_higee/week4_higee/1\n{\n\"price\" : 10000,\n\"age\" : 17\n}",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"name\":\"hong-gil-dong\",\n\t\"age\":28\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "738dae31-7a7c-42c6-b69f-1a8f7465e252",
+			"name": "analyzer",
+			"url": "http://localhost:9200/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"analyzer\": \"keyword\",\r\n  \"text\":     \"share your c experience with NoSql2 & big data technologies.\"\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "7502e640-d59a-4a70-88e9-cc2b5851869a",
+			"name": "인덱스 아이디 삭제",
+			"url": "http://localhost:9200/logstash-2019.01.05/doc/w4dnHWgB__8wFUm3WFDJ",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "76b7a4a9-9c85-441c-a1ef-59358e40dac8",
+			"name": "kstem",
+			"url": "http://localhost:9200/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"tokenizer\": \"standard\",\r\n  \"text\": \"administrators\"\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "78d61519-a8fb-455a-9711-9c82a50b670f",
+			"name": "fuzzy",
+			"url": "http://localhost:9200/actors-2019.03.16/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n\t\"_source\":[\"lastName\"],\r\n\t\"query\": {\r\n        \"fuzzy\" : {\r\n            \"lastName\" : {\r\n                \"value\": \"Duc\",\r\n                \"boost\": 1.0,\r\n                \"fuzziness\": 10,\r\n                \"prefix_length\": 0,\r\n                \"max_expansions\": 100\r\n            }\r\n        }\r\n    }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "7aa23a0a-178b-4075-bb0e-8d7e78ad73f8",
+			"name": "aggregation get data",
+			"url": "http://localhost:9200/shirts/_search",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"query\": {\r\n    \"bool\": {\r\n      \"filter\": [\r\n        { \"term\": { \"color\": \"red\"   }},\r\n        { \"term\": { \"brand\": \"gucci\" }}\r\n      ]\r\n    }\r\n  },\r\n  \"aggs\": {\r\n    \"models\": {\r\n      \"terms\": { \"field\": \"model\" } \r\n    }\r\n  }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "7f6f5d03-6159-438b-b363-eb9eaf93fd61",
+			"name": "match - operator",
+			"url": "http://localhost:9200/logstash-2019.03.16/_search",
+			"description": "검색 스코어에 따른 정렬을 하지 않으므로 속도가 빠르다.\n\n\nhttps://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html#query-dsl-bool-query",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n\t \"query\": {\r\n        \"match\" : {\r\n            \"message\" : {\r\n                \"query\" : \"ApREW 20030838\",\r\n                \"operator\" : \"and\"\r\n            }\r\n        }\r\n    }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "89bc01d2-b83f-420a-be15-f24457ded709",
+			"name": "date 데이터 range 검색",
+			"url": "http://localhost:9200/logstash-2019.01.19/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"query\":{\n\t\t\"range\":{\n\t\t\t\"new_event\":{\n\t\t\t\t\"gte\":\"OCT 24 2013\",\n\t\t\t\t\"lt\":\"OCT 31 2013\"\n\t\t\t}\n\t\t}\n\t}\n\t\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "8be2b3b3-2b6a-cde0-f106-6387d1019f55",
+			"name": "빈인덱스 생성하기",
+			"url": "http://localhost:9200/test2019_03_02",
+			"description": "",
+			"data": [],
+			"dataMode": "urlencoded",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "90a12f52-bd5e-4619-9665-7f77fcbbaac1",
+			"name": "unassigned shard 확인",
+			"url": "http://localhost:9200/_cat/shards",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "9196e593-38f8-4e58-b90f-410b531af4e9",
+			"name": "explain",
+			"url": "http://localhost:9200/actors-2019.03.16/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"address\":\"ApMSp\"\n\t\t}\n\t},\n\t\"explain\":true\n\t\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "972aedec-5d4b-407e-9346-fa05ceab0534",
+			"name": "unassigned replica 해결",
+			"url": "http://localhost:9200/_settings",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"index\":{\n\t\t \"number_of_replicas\": \"0\"\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "999e39c7-50c5-1ab6-d59e-5e672ae939bd",
+			"name": "인덱스 refresh_interval 확인",
+			"url": "http://localhost:9200/_settings",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n  \"query\":{\n    \"bool\":{\n      \"filter\":{\n        \"match\":{\n          \"source\":\"elasticsearch\"\n        }\n      }\n    }\n  }\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "99ae932f-c6da-affa-e87e-31112b6cb789",
+			"name": "인덱스별보기",
+			"url": "http://localhost:9200/logstash-2019.01.19/_search",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "a0645532-4c36-4516-9f06-0e455d3f833c",
+			"name": "인덱스 open index",
+			"url": "http://localhost:9200/logstash-2019.01.05/_open",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "a3ed7c79-a75f-4ae9-aec2-6e20183dba6e",
+			"name": "post filter - post  filter 없이 할때 비교",
+			"url": "http://localhost:9200/shirts/_search\n",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{\r\n  \"query\": {\r\n    \"bool\": {\r\n      \"must\":\r\n      [\r\n      {\r\n        \"term\": { \"brand\": \"gucci\" } \r\n        \r\n      },\r\n      {\r\n      \t\"term\": { \"color\": \"red\" }\r\n      }\r\n      ]\r\n    }\r\n  },\r\n  \"aggs\": {\r\n    \"colors\": {\r\n      \"terms\": { \"field\": \"color\" } \r\n    },\r\n    \"color_red\": {\r\n      \"filter\": {\r\n        \"term\": { \"color\": \"red\" } \r\n      },\r\n      \"aggs\": {\r\n        \"models\": {\r\n          \"terms\": { \"field\": \"model\" } \r\n        }\r\n      }\r\n    }\r\n  }\r\n \r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "a6aea4c4-7870-72e7-5ace-bba30e4c4697",
+			"name": "인덱스 통계 -- aggs",
+			"url": "http://localhost:9200/logstash-2019.01.19/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"size\":0,\n\t\"query\":{\n\t\t\"match_all\":{}\n\t},\n\t\"aggs\":{\n\t\t\"aggs_data\":{\n\t\t\t\"terms\":{\n\t\t\t\t\"field\":\"host.name.keyword\"\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "b2149582-81ae-4388-a3b6-70e50d9b95c0",
+			"name": "tags데이터확인",
+			"url": "http://localhost:9200/logstash-2019.01.19/doc/5",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "b5d1df27-b33a-4510-b3db-b7d358098883",
+			"name": "tags데이터넣기",
+			"url": "http://localhost:9200/logstash-2019.01.19/doc/5",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"tags\":[\"first\",\"second\"]\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "bb183589-d149-e070-1891-bffb43cd675b",
+			"name": "인덱스 검색하기 - 인덱스/타입/다큐먼트로 검색",
+			"url": "http://localhost:9200/logstash-2019.01.05/doc/w4dnHWgB__8wFUm3WFDJ",
+			"description": "해당 다큐먼트를 찾으면 결과에서 found = true 를 볼 수 있다.",
+			"data": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c3064c5c-9932-faea-f053-90bc99373dac",
+			"name": "인덱스 threadpool - active queue rejected",
+			"url": "http://localhost:9200/_cat/thread_pool",
+			"description": "첫번째 컬럼: 노드이름\n두번째 컬럼: 스레드 풀이름\n세번째 컬럼: active 수 \n네번째 컬럼: queue 수 \n다섯번째 컬럼: rejected 수\n\nhttps://www.elastic.co/guide/en/elasticsearch/reference/current/cat-thread-pool.html\n",
+			"data": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c5ab71df-64ed-4efd-8b27-e05230b7d0b6",
+			"name": "upsert",
+			"url": "http://localhost:9200/test/_doc/1/_update",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-update.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n    \"script\" : {\r\n        \"source\": \"ctx._source.counter += params.count\",\r\n        \"lang\": \"painless\",\r\n        \"params\" : {\r\n            \"count\" : 4\r\n        }\r\n    },\r\n    \"upsert\" : {\r\n        \"counter\" : 1\r\n    }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c5cf6a38-4008-47d5-b04d-9b7def7ba72a",
+			"name": "unassigned replica 해결 settings",
+			"url": "http://localhost:9200/_cluster/settings",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"persistent\": {\r\n    \"cluster.routing.allocation.enable\": \"all\"\r\n  }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c75a4b89-7692-401b-98d7-ced2fbfbc9e0",
+			"name": "unassigned replica 해결 이유 알아보기",
+			"url": "http://localhost:9200/_settings",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"index\":{\n\t\t \"number_of_replicas\": \"0\"\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "ced888ce-646c-1bda-9470-7798af47d8d9",
+			"name": "인덱스 cat shard - 샤드 정보",
+			"url": "http://localhost:9200/_cat/shards",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "d79d204a-3920-4cea-8e1d-1e3ab12ada35",
+			"name": "인덱스별보기 *",
+			"url": "http://localhost:9200/logstash-2019.01.19/_search",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "d905e409-9edb-568d-97d5-6fe3acd2c0d8",
+			"name": "전체 인덱스 검색하기",
+			"url": "http://localhost:9200/_all/_search",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "db6b63c4-f6ba-4c84-a552-d2bd2fce38da",
+			"name": "nori sample analyze",
+			"url": "http://localhost:9200/nori_sample/_analyze",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{\r\n  \"analyzer\": \"my_analyzer\",\r\n  \"text\": \"세종시\"  \r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "dbb6fdd8-df2b-4756-a8e7-f47909aa576f",
+			"name": "빈인덱스",
+			"url": "http://localhost:9200/fuzzy_products",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "dc5bba08-6293-40c7-89bf-2e6d45b62323",
+			"name": "date데이터넣기",
+			"url": "http://localhost:9200/logstash-2019.01.19/doc/3",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"new_event\":\"Oct 30 2013\"\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "de38b7b6-969f-4a3b-a28f-729b80ad6b09",
+			"name": "match_phrase",
+			"url": "http://localhost:9200/logstash-2019.03.16/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"query\":{\n\t\t\"match_phrase\" : {\n            \"message\" : {\n                \"query\" : \"ApREw,20031513,Liane Alexandra Curtis\"\n            }\n        }\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e045c59a-f1c4-4dc8-924b-c80ad5848815",
+			"name": "analyzer stop",
+			"url": "http://localhost:9200/my_index4",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"settings\": {\r\n    \"analysis\": {\r\n      \"analyzer\": {\r\n        \"my_stop_analyzer\": {\r\n          \"type\": \"stop\",\r\n          \"stopwords\": [\"the\", \"over\"]\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e0afa308-f89f-4254-b65e-5161357d5ef6",
+			"name": "빈인덱스 생성하기- id로 생성된 인덱스 확인",
+			"url": "http://localhost:9200/test2019_03_02/doc/1",
+			"description": "field:value 값을 넣어주어야 한다.\n\nPUT week4_higee/week4_higee/1\n{\n\"price\" : 10000,\n\"age\" : 17\n}",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{\n\t\"name\":\"hong-gil-dong\",\n\t\"age\":28\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e217cdde-d070-4dd9-a9e6-ceb6fc299448",
+			"name": "function score",
+			"url": "http://localhost:9200/actors-2019.03.16/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"query\":{\n\t\t\"function_score\":{\n\t\t\t\"match\":{\n\t\t\t\t\"address\":\"ApMSp\"\n\t\t\t\t}\n\t\t\t}\n\t},\n\t\"functions\":[]\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e3758601-c803-40d0-ab4d-296e0f97abc7",
+			"name": "ngram",
+			"url": "http://localhost:9200/actors-2019.03.16/_search",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "e4488899-b8e5-9c1f-40ba-fea1e4d98a6b",
+			"name": "filter",
+			"url": "http://localhost:9200/logstash-2019.01.05/_search",
+			"description": "검색 스코어에 따른 정렬을 하지 않으므로 속도가 빠르다.\n\n\nhttps://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html#query-dsl-bool-query",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n  \"query\":{\n    \"bool\":{\n      \"filter\":{\n        \"match\":{\n          \"source\":\"elasticsearch\"\n        }\n      }\n    }\n  }\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e515e386-9de0-96b7-646b-e50ae42021b4",
+			"name": "bool 쿼리",
+			"url": "http://localhost:9200/logstash-2019.01.05/_search",
+			"description": "must - and\nshoud - or\nmust not - not and\n\nhttps://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html#query-dsl-bool-query",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n  \"query\": {\n    \"bool\" : {\n      \"must\" : [\n        { \"match\" : { \"source\": \"elasticsearch\" } },\n        { \"match\" : { \"message\": \"2018-08-19\" } }\n      ]\n      \n    }\n  }\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e529a9e0-65a2-4f40-be68-9d9d80ad76e6",
+			"name": "analyzer pattern",
+			"url": "http://localhost:9200/my_index5",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"settings\": {\r\n    \"analysis\": {\r\n      \"analyzer\": {\r\n        \"my_email_analyzer\": {\r\n          \"type\":      \"pattern\",\r\n          \"pattern\":   \"\\\\W|_\", \r\n          \"lowercase\": true\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e6297117-4475-4eb6-bd15-2e5c2e751ace",
+			"name": "템플릿 리스트",
+			"url": "http://localhost:9200/_cat/templates",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "e76b8942-dde1-43e0-94f4-3b170a9aa593",
+			"name": "_store 데이터 넣기",
+			"url": "http://localhost:9200/my_index2/_doc/1",
+			"description": "해당 다큐먼트를 찾으면 결과에서 found = true 를 볼 수 있다.",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"enabled": true,
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"title\":   \"Some short title\",\r\n  \"date\":    \"2015-01-01\",\r\n  \"content\": \"A very long content field...\"\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e8eaff8a-7dc1-422b-b09b-60f1d01e7dd9",
+			"name": "템플릿 확인",
+			"url": "http://localhost:9200/_template/actor_template",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "e9708bd6-a751-c0d2-fd4c-8819212501a3",
+			"name": "인덱스 매핑보기",
+			"url": "http://localhost:9200/logstash-2019.01.19/_mapping",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "eba5331c-cbd2-4113-90b2-da72c3008537",
+			"name": "match_phrase_prefix",
+			"url": "http://localhost:9200/logstash-2019.03.16/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"query\":{\n\t\t\"match_phrase_prefix\" : {\n            \"message\" : {\n                \"query\" : \"0\",\n                \"max_expansions\" : 1\n            }\n        }\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f4eb98fc-8a2f-4d95-4fe5-9c5f6b27d5a6",
+			"name": "인덱스 통계2 --aggs",
+			"url": "http://localhost:9200/logstash-2019.01.19/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"size\":0,\n\t\"query\":{\n\t\t\"match_all\":{}\n\t},\n\t\"aggs\":{\n\t\t\"aggs_data\":{\n\t\t\t\"terms\":{\n\t\t\t\t\"field\":\"host.name.keyword\"\n\t\t\t}\n\t\t}\n\t}\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f4fd4b67-fd7f-4719-842b-1f606bbfe337",
+			"name": "아이디별보기",
+			"url": "http://localhost:9200/logstash-2019.01.19/doc/bwcLZWgBp3P6drI0tpU0",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"description": "",
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"type": "text",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{ \"index\" : { \"_index\" : \"test\", \"_type\" : \"_doc\", \"_id\" : \"1\" } }\r\n{ \"field1\" : \"value1\" }",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f932f68c-e0f8-4740-934c-be7be5aa389e",
+			"name": "phrase",
+			"url": "http://localhost:9200/logstash-2019.01.05/_search",
+			"description": "must - and\nshoud - or\nmust not - not and\n\nhttps://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html#query-dsl-bool-query",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n  \"query\": {\n    \"bool\" : {\n      \"must\" : [\n        { \"match\" : { \"source\": \"elasticsearch\" } },\n        { \"match\" : { \"message\": \"2018-08-19\" } }\n      ]\n      \n    }\n  }\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f9fc545b-13c2-a0d9-2b88-1c207cf16386",
+			"name": "인덱스 refresh_interval 변경 ",
+			"url": "http://localhost:9200/_settings",
+			"description": "https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\n\t\"refresh_interval\":\"10s\"\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "fcd24133-c743-b8b1-bb33-1a59f167c3b3",
+			"name": "인덱스 slow log 설정값 변경",
+			"url": "http://localhost:9200/logstash-2019.01.05/_settings",
+			"description": "https://ma.ttias.be/enable-slow-log-elastic-search/",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": " {\n \t\"index.search.slowlog.threshold.query.warn\" : \"100ms\",\n \t\"index.search.slowlog.threshold.fetch.warn\": \"100ms\",\n \t\"index.indexing.slowlog.threshold.index.warn\": \"100ms\"\n }",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		}
+	]
+}
