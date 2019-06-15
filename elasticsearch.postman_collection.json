@@ -7,6 +7,10 @@
 	"variables": [],
 	"order": [
 		"5e262668-575d-25e8-cd46-a00790829147",
+		"652f2c00-13dc-4393-9a8e-83323eccfb8f",
+		"a9382a5a-6233-403a-a4fe-da8475d306cf",
+		"1742c071-6864-4ce7-a13b-7454e4fa3a14",
+		"e57d2af1-65b9-4cfc-bf0c-9b7eaf0e4d78",
 		"a3ed7c79-a75f-4ae9-aec2-6e20183dba6e",
 		"267fb4ca-0738-4b3a-8d8c-39f9abb7188f",
 		"9196e593-38f8-4e58-b90f-410b531af4e9",
@@ -197,6 +201,32 @@
 			"auth": null,
 			"events": null,
 			"folder": null,
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "1742c071-6864-4ce7-a13b-7454e4fa3a14",
+			"name": "copy_to upsert",
+			"url": "http://localhost:9200/my_index_copyto/_doc/1/_update",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"doc\":{\r\n  \t\"first_name\":\"Brad\"\r\n  },\r\n  \"doc_as_upsert\":true\r\n}",
 			"headers": "Content-Type: application/json\n",
 			"pathVariables": {}
 		},
@@ -1049,6 +1079,32 @@
 			"pathVariables": {}
 		},
 		{
+			"id": "652f2c00-13dc-4393-9a8e-83323eccfb8f",
+			"name": "copy_to_mapping",
+			"url": "http://localhost:9200/my_index_copyto",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"mappings\": {\r\n    \"_doc\": {\r\n      \"properties\": {\r\n        \"first_name\": {\r\n          \"type\": \"text\",\r\n          \"copy_to\": \"full_name\" \r\n        },\r\n        \"last_name\": {\r\n          \"type\": \"text\",\r\n          \"copy_to\": \"full_name\" \r\n        },\r\n        \"full_name\": {\r\n          \"type\": \"text\"\r\n        }\r\n      }\r\n    }\r\n  }\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
 			"id": "679b05e3-42d1-4c2f-ba6b-af9fe6de7c20",
 			"name": "인덱스/타입/아이디/_explain",
 			"url": "http://localhost:9200/actors-2019.03.16/doc/3itIhmkB4JHir-jMdEf9/_explain",
@@ -1599,6 +1655,32 @@
 			"pathVariables": {}
 		},
 		{
+			"id": "a9382a5a-6233-403a-a4fe-da8475d306cf",
+			"name": "copy_to data",
+			"url": "http://localhost:9200/my_index_copyto/_doc/1",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n  \"first_name\": \"John\",\r\n  \"last_name\": \"Smith\"\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
 			"id": "b2149582-81ae-4388-a3b6-70e50d9b95c0",
 			"name": "tags데이터확인",
 			"url": "http://localhost:9200/logstash-2019.01.19/doc/5",
@@ -2110,6 +2192,35 @@
 			"events": null,
 			"folder": null,
 			"rawModeData": "{\r\n  \"settings\": {\r\n    \"analysis\": {\r\n      \"analyzer\": {\r\n        \"my_email_analyzer\": {\r\n          \"type\":      \"pattern\",\r\n          \"pattern\":   \"\\\\W|_\", \r\n          \"lowercase\": true\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e57d2af1-65b9-4cfc-bf0c-9b7eaf0e4d78",
+			"name": "copy_to search",
+			"url": "http://localhost:9200/my_index_copyto/_search",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"rawModeData": "{\r\n  \"query\": {\r\n    \"match\": {\r\n      \"full_name\": { \r\n        \"query\": \"Smith Brad\",\r\n        \"operator\": \"and\"\r\n      }\r\n    }\r\n  }\r\n}",
 			"headers": "Content-Type: application/json\n",
 			"pathVariables": {}
 		},
