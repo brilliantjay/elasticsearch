@@ -7,6 +7,9 @@
 	"variables": [],
 	"order": [
 		"5e262668-575d-25e8-cd46-a00790829147",
+		"9415080e-ea88-4dfc-80df-3efac3d05ce9",
+		"6727d4ac-9912-47c6-8032-7614798f309b",
+		"0578bc32-aefe-414f-b49b-2063c46c5a9d",
 		"652f2c00-13dc-4393-9a8e-83323eccfb8f",
 		"a9382a5a-6233-403a-a4fe-da8475d306cf",
 		"1742c071-6864-4ce7-a13b-7454e4fa3a14",
@@ -152,6 +155,38 @@
 			"folder": null,
 			"rawModeData": "{\n    \"commands\" : [\n        {\n            \"move\" : {\n                \"index\" : \"logstash-2019.01.05\", \"shard\" : 4,\n                \"from_node\" : \"node-1\", \"to_node\" : \"node-2\"\n            }\n        }\n        \n    ]\n}",
 			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "0578bc32-aefe-414f-b49b-2063c46c5a9d",
+			"name": "sort - my_sort 인덱스 - 검색",
+			"url": "http://localhost:9200/_cat/indices?pretty&s=i",
+			"description": "",
+			"data": null,
+			"dataMode": null,
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "pretty",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "s",
+					"value": "i",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"headers": "",
 			"pathVariables": {}
 		},
 		{
@@ -1105,6 +1140,40 @@
 			"pathVariables": {}
 		},
 		{
+			"id": "6727d4ac-9912-47c6-8032-7614798f309b",
+			"name": "sort - my_sort 인덱스 - 데이터 넣기",
+			"url": "http://localhost:9200/my_sort/_doc/3?refresh",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "refresh",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n   \"product\": \"chocolate\",\r\n   \"price\": [5, 10]\r\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
 			"id": "679b05e3-42d1-4c2f-ba6b-af9fe6de7c20",
 			"name": "인덱스/타입/아이디/_explain",
 			"url": "http://localhost:9200/actors-2019.03.16/doc/3itIhmkB4JHir-jMdEf9/_explain",
@@ -1513,6 +1582,32 @@
 			"events": null,
 			"folder": null,
 			"rawModeData": "{\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"address\":\"ApMSp\"\n\t\t}\n\t},\n\t\"explain\":true\n\t\n}",
+			"headers": "Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "9415080e-ea88-4dfc-80df-3efac3d05ce9",
+			"name": "sort - my_sort 인덱스- 매핑하기",
+			"url": "http://localhost:9200/my_sort",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"name": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"type": "text"
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": null,
+			"rawModeData": "{\r\n    \"mappings\": {\r\n        \"_doc\": {\r\n            \"properties\": {\r\n                \"post_date\": { \"type\": \"date\" },\r\n                \"user\": {\r\n                    \"type\": \"keyword\"\r\n                },\r\n                \"name\": {\r\n                    \"type\": \"keyword\"\r\n                },\r\n                \"age\": { \"type\": \"integer\" }\r\n            }\r\n        }\r\n    }\r\n}",
 			"headers": "Content-Type: application/json\n",
 			"pathVariables": {}
 		},
